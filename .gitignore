@@ -108,5 +108,5 @@ db/db.sqlite
 
 flask_session
 entornoProyecto
-.vscode
+./vscode
 node_modules
